@@ -155,7 +155,7 @@ Post-run review confirmed that the majority of failed downloads are attributable
 
 ## Context
 
-This pipeline was built as part of a real institutional archival project at Oral Roberts University Library. The pilot covers 2017 content (~3.7TB). The full collection spans 38,000+ videos across multiple years and represents a long-term preservation initiative.
+This pipeline was built as part of a real institutional archival project at Oral Roberts University Library. The pilot covers content from 2015 to 2017 (~3.7TB). The full collection spans 38,000+ videos across multiple years and represents a long-term preservation initiative.
 
 ---
 
